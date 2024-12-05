@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+
+h1{
+   margin-left: 40%;
+}
+table{
+    background-color: transparent;
+    border-collapse: collapse;
+    align-content: center;
+    margin: auto;
+    border: none;
+   
+}
+.table td{ 
+    border: 3px solid black;
+    text-align: center;
+    font-weight: bold;
+    padding: 0 1rem;
+}
+
+span{
+    display: block;
+   margin: 5px 0;
+    font-size: 0.6em;
+    font-weight: bold;
+}
+.table .label-cell {
+    border: none;
+    background-color: transparent;
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 1.1em;
+}
+.table .tr .colspan{
+    border: none;
+    background-color: transparent;
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 1.1em;
+}
